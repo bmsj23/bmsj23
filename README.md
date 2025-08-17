@@ -27,7 +27,7 @@
 
 # <div align="center"><p>💻 Tech Stack</p></div>
 
-<div align="center"><p>🛠️ Here are some of the technologies that I have tested/used<br><br></p></div>
+<div align="center"><p>🛠️ Here are some of the technologies that I have tested/used and currently utilize<br><br></p></div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />

@@ -1,3 +1,5 @@
+![Header](./stubborn-banner.png)
+
 #
 
 # <div align="center"><p>🧍🏻‍♂️ About Me</p></div>

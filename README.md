@@ -1,6 +1,6 @@
 #
 
-# <div align="center"><p>💫 About Me</p></div>
+# <div align="center"><p>🧍🏻‍♂️ About Me</p></div>
 
 <div align="center"><p>🔭 I’m a DLSL BSCS student currently working on portfolios, IoTs, and some personal projects<br><br></p></div>
 

@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on portfolios, IoTs, personal projects<br><br>🌱 I’m currently learning Java, Flutter, Node.JS<br><br>👨‍💻 All of my projects are available at https://benesj.vercel.app<br><br>📫 How to reach me sanjuanbenedict05@gmail.com
 
+<img src="https://raw.githubusercontent.com/bmsj23/bmsj23/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/qb.benedict) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benedictsanjuannn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benedict-san-juan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjuanbenedict05@gmail.com) 

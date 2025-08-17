@@ -1,5 +1,8 @@
-# 💫 About Me
-🔭 I’m currently working on portfolios, IoTs, and some personal projects<br><br>📫 You can contact me on sanjuanbenedict05@gmail.com
+#
+
+# <div align="center"><p>💫 About Me</p></div>
+
+<div align="center"><p>🔭 I’m a DLSL BSCS student currently working on portfolios, IoTs, and some personal projects<br><br></p></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bmsj23/bmsj23/output/pacman-contribution-graph-dark.svg">
@@ -7,9 +10,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bmsj23/bmsj23/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-## <div align="center"><p>🌐 Socials</p></div>
+#
+# <div align="center"><p>🌐 Socials</p></div>
+
+<div align="center"><p>📫 You can contact me on these social platforms<br><br></p></div>
 
 <div align="center">
   <a href="https://facebook.com/qb.benedict"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="64" height="50" alt="facebook logo"  /></a>
@@ -18,7 +23,12 @@
   <a href="mailto:sanjuanbenedict05@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="64" height="50" alt="gmail logo"  /></a>
 </div>
 
+#
+
 # <div align="center"><p>💻 Tech Stack</p></div>
+
+<div align="center"><p>🛠️ Here are some of the technologies that I have tested/used<br><br></p></div>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="15" />
@@ -49,10 +59,15 @@
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="50" alt="vercel logo"  />
 </div>
 
+#
+
 # <div align="center"><p>📊 GitHub Stats</p></div>
+<p><br></p>
 
 <div align="center">
   
   ![](https://nirzak-streak-stats.vercel.app/?user=bmsj23&theme=dark&hide_border=false)<br/>
   
 </div>
+
+#

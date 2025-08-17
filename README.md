@@ -1,7 +1,11 @@
 # 💫 About Me:
 🔭 I’m currently working on portfolios, IoTs, personal projects<br><br>🌱 I’m currently learning Java, Flutter, Node.JS<br><br>👨‍💻 All of my projects are available at https://benesj.vercel.app<br><br>📫 How to reach me sanjuanbenedict05@gmail.com
 
-<img src="https://raw.githubusercontent.com/bmsj23/bmsj23/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bmsj23/bmsj23/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bmsj23/bmsj23/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bmsj23/bmsj23/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 

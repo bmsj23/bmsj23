@@ -4,7 +4,8 @@
 
 # <div align="center"><p>🧍🏻‍♂️ About Me</p></div>
 
-<div align="center"><p>🔭 I’m a DLSL BSCS student currently working on portfolios, IoTs, and some personal projects<br><br></p></div>
+
+<div align="center"><p><br>🔭 I’m a DLSL BSCS student currently working on portfolios, IoTs, and some personal projects<br><br></p></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bmsj23/bmsj23/output/pacman-contribution-graph-dark.svg">

@@ -14,6 +14,6 @@ body {
   min-height: 125vh !important;
 }
 
-if a reset is needed (revert all changes made and make local repo mirrored/1:1 with the remote repo to start fresh)
+# if a reset is needed (revert all changes made and make local repo mirrored/1:1 with the remote repo to start fresh)
 
 git reset --hard HEAD; git clean -fd; git fetch origin; git reset --hard origin/main && git status

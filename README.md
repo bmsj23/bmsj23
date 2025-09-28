@@ -69,7 +69,7 @@
 
 <div align="center">
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=bmsj23&theme=dark&hide_border=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=bmsj23&theme=material-palenight&hide_border=false)<br/>
   
 </div>
 

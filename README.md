@@ -5,7 +5,7 @@
 # <div align="center"><p>About Me</p></div>
 
 <div align="center">
-  <p><br>I’m a DLSL BSCS student currently working on portfolios, IoT systems, and various personal projects.<br><br></p>
+  <p><br>I’m a DLSL BS in Computer Science student currently working on portfolios, IoT systems, and various personal projects.<br><br></p>
 </div>
 
 <picture>

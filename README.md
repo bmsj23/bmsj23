@@ -1,4 +1,4 @@
-![Header](./stubborn-banner.png)
+<!-- ![Header](./stubborn-banner.png) -->
 
 #
 
